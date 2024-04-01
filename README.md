@@ -28,3 +28,4 @@ Follow these simple steps to install the InspectEdit extension on your Chrome br
    - Select the folder and click "Open".
 
 Your InspectEdit extension should now be installed and visible in the Extensions menu. Ensure it's toggled on to start using it immediately! 
+(DON'T FORGET TO PIN THE EXTENSION) 
