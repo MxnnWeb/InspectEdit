@@ -27,5 +27,34 @@ Follow these simple steps to install the InspectEdit extension on your Chrome br
    - Navigate to the folder where you extracted the `.zip` file.
    - Select the folder and click "Open".
 
-Your InspectEdit extension should now be installed and visible in the Extensions menu. Ensure it's toggled on to start using it immediately! 
-(DON'T FORGET TO PIN THE EXTENSION) 
+Your InspectEdit extension should now be installed and visible in the Extensions menu. (Ensure you've pinned the extension) 
+
+---
+
+**Guide To Use** 
+Here’s how to edit and save text on any webpage:
+
+1. **Access the Webpage:**
+   - Open Chrome and navigate to the webpage you wish to edit.
+
+2. **Activate Edit Mode:**
+   - Click the InspectEdit icon in the extension toolbar of your browser.
+   - In the popup, click the “Toggle Edit Mode” button.
+
+3. **Edit Text on the Webpage:**
+   - Hover over the text you want to edit; it will highlight in blue.
+   - Click the text you wish to change. The highlight will turn green to indicate selection.
+   - Type to edit or delete text as needed.
+
+4. **Save Your Edits:**
+   - After editing, click “Toggle Edit Mode” again to save your changes.
+   - Your edits are automatically saved. Feel free to refresh or close the page; your changes will persist.
+
+5. **Revert Edits (Optional):**
+   - To undo your changes, click the InspectEdit icon.
+   - Click “Clear All Edits” to remove all saved modifications from the webpage.
+
+Happy customizing! Remember, with InspectEdit, the web is yours to personalize.
+
+
+(To remove the extension, right click it's icon and press "Remove from Chrome") 
